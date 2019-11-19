@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>test</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix/>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-19 18:44:32</sys_created_on>
+        <sys_id>a5d6821c1b1100106bea4196bc4bcb9e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test</sys_name>
+        <sys_package display_value="TEst" source="x_426364_test">a5b6021c1b1100106bea4196bc4bcb40</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TEst">a5b6021c1b1100106bea4196bc4bcb40</sys_scope>
+        <sys_update_name>sys_user_role_a5d6821c1b1100106bea4196bc4bcb9e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-19 18:44:32</sys_updated_on>
+    </sys_user_role>
+</record_update>

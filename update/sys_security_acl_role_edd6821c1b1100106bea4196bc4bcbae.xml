@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-19 18:44:32</sys_created_on>
+        <sys_id>edd6821c1b1100106bea4196bc4bcbae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x.426364.workspace.test.test</sys_name>
+        <sys_package display_value="TEst" source="x_426364_test">a5b6021c1b1100106bea4196bc4bcb40</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TEst">a5b6021c1b1100106bea4196bc4bcb40</sys_scope>
+        <sys_security_acl display_value="x.426364.workspace.test">29d6821c1b1100106bea4196bc4bcb9b</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_edd6821c1b1100106bea4196bc4bcbae</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-19 18:44:32</sys_updated_on>
+        <sys_user_role display_value="test" name="test">a5d6821c1b1100106bea4196bc4bcb9e</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
